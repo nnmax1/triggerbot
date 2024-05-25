@@ -1,0 +1,7 @@
+{
+    "trigger_hotkey": "0x10",
+    "base_delay": 0.0200,
+    "trigger_delay": 40,
+    "color_tolerance": 40,
+    "always_enabled": false
+}
