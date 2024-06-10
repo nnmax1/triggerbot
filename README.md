@@ -1,7 +1,7 @@
 # Very Fast Triggerbot for Valorant
 
 
-[![Click me to watch demo](https://i9.ytimg.com/vi_webp/oVuooIVADEY/mq2.webp?sqp=CPDEyLIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChPMA8=&rs=AOn4CLA2gYpTFZ4feiipJAH09cmoHZgjBA)](https://www.youtube.com/watch?v=oVuooIVADEY)
+[![Click me to watch demo](mq1.webp)](https://www.youtube.com/watch?v=kiOPL5sRMEc)
 
 <p>Click on image above to view a demo of the triggerbot</p>
 
